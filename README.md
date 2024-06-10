@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rishparna Bandopadhyay</h1>
 
 <h3 align="center">A passionate full stack developer from India.</h3>
-![Untitled design (1)](https://github.com/Rishparna02/Rishparna02/assets/109991962/8132bb11-f69f-4f02-9e3a-cb80163cf660)
+![Untitled design (1)](https://github.com/Rishparna02/Rishparna02/assets/109991962/8ec208d7-6c24-46d2-998a-dba6d592e46d)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishparna02&label=Profile%20views&color=0e75b6&style=flat" alt="rishparna02" /> </p>
 
