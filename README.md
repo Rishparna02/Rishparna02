@@ -1,7 +1,8 @@
-<h1 align="center">Namastey 🙏, I'm Rishparna Bandopadhyay</h1>
+<h1 align="center">Namastey 🙏, I'm Rishparna Bandopadhyay👩‍💻 </h1>
+<h3 align="center">A passionate full stack developer from India.</h3>
 <img align = "center" src = "https://i.pinimg.com/originals/48/81/d1/4881d125c9fd680be41a44205ab07b82.gif" width="1020"></img>
 
-<h3 align="center">A passionate full stack developer from India.</h3>
+
 
 
 
