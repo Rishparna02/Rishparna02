@@ -21,14 +21,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   
-  <a href="https://instagram.com/rishparnaa" target="_blank" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-  
-  <a href="https://www.youtube.com/c/rishparnaaa" target="_blank" style="margin-right: 10px;">
-    <img src="https://skillicons.dev/icons?i=youtube" height="40" />
-  </a>
-  
   <a href="https://leetcode.com/rishparna/" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.simpleicons.org/leetcode" height="40" />
   </a>
