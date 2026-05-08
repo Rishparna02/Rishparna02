@@ -17,27 +17,26 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/rishparna-b-29963b217" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/rishparna-b-29963b217" target="_blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-
-  <a href="https://instagram.com/rishparnaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  
+  <a href="https://instagram.com/rishparnaa" target="_blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
-
-  <a href="https://www.youtube.com/c/rishparnaaa" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  
+  <a href="https://www.youtube.com/c/rishparnaaa" target="_blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=youtube" height="40" />
   </a>
-
-  <a href="https://leetcode.com/rishparna/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  
+  <a href="https://leetcode.com/rishparna/" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" />
   </a>
-
+  
   <a href="https://auth.geeksforgeeks.org/user/rishparnaa/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" />
   </a>
 </p>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishparna02&show_icons=true&locale=en&layout=compact" alt="rishparna02" /></p>
