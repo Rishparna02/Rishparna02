@@ -13,7 +13,28 @@
 
 
 - 📫 How to reach me **rishparnab@gmail.com**
+<h3 align="left">Connect with me:</h3>
 
+<p align="left">
+  <a href="https://linkedin.com/in/rishparna-b-29963b217" target="_blank" style="margin-right: 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  
+  <a href="https://leetcode.com/rishparna/" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" />
+  </a>
+  
+  <a href="https://auth.geeksforgeeks.org/user/rishparnaa/" target="_blank">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks" height="40" />
+  </a>
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishparna02&show_icons=true&locale=en&layout=compact" alt="rishparna02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishparna02&show_icons=true&locale=en" alt="rishparna02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishparna02&" alt="rishparna02" /></p>
 
 
 
