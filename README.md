@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishparna02&label=Profile%20views&color=0e75b6&style=flat" alt="rishparna02" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishparna02" alt="rishparna02" /></a> </p>
-
 - 📫 How to reach me **rishparnab@gmail.com**
 
 ![snake gif](https://github.com/Rishparna02/Rishparna02/blob/output/github-contribution-grid-snake-dark.svg)
